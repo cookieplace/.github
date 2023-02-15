@@ -1,5 +1,5 @@
 # 🍪 쿠키플레이스
-<img src="https://crepe.land/static/og/index.png" width="500px" />
+<img src="https://crepe.land/static/og/main.png" width="500px" />
 
 [나만의 레시피, 나만의 창작물, "크레페"](https://crepe.cm)
 
